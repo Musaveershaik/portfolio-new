@@ -13,7 +13,7 @@ Welcome to the Portfolio project! This repository contains the source code and a
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/portfolio-new.git
+    git clone https://github.com/Musaveershaik/portfolio-new.git
     cd portfolio-new
     ```
 
